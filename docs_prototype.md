@@ -45,11 +45,11 @@ Checks if the operand to the left is greater or equal to the operand on the righ
 
 Checks if the left operand is lesser than or equal to the left operand.
 
-`5 != 2` (Evaluates to True, or 1
+`5 != 2` (Evaluates to True, or 1)
 
 Checks if the two operands are not equal.
 
-`5 > 2` (Evaluates to True, or 1
+`5 > 2` (Evaluates to True, or 1)
 
 Checks if the left operand is greater than the right operand.
 
